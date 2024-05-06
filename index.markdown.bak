@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 属性不明的宝藏猫娘～
@@ -15,6 +16,7 @@ layout: home
     - 或通过群号添加：943857495
 
 ## 歌单
+
 | 歌名               | 歌手 | 备注 | ⑨包历史翻唱 |
 |------------------|----|----|--------|
 | 阿拉斯加海湾           |    |    |        |
