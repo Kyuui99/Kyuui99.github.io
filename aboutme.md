@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 酒音 Kyuui
+subtitle: 属性不明的宝藏猫娘～
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+（此处应有⑨包简介）
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* [哔哩哔哩-个人主页](https://space.bilibili.com/30654958)
+* [哔哩哔哩-直播间](https://live.bilibili.com/10098966)
+* [粉丝QQ群](https://qm.qq.com/q/FqD7gAz6QE)
+    - 或通过群号添加：943857495
