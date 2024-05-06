@@ -8,10 +8,6 @@ function isSonglistTable(table_element) {
     return false;
 }
 
-// function copy2clipboard(s) {
-//     alert("已复制\"" + s + "\"至剪贴板");
-// }
-
 function replaceSongNames() {
     var table_elements = document.getElementsByTagName("table")
     var i = 0, len = table_elements.length;
